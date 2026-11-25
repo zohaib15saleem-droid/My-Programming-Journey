@@ -1,5 +1,5 @@
 print("==========================")
-print("     MY FIRST PROJECT")
+print(" MY FIRST PROJECT")
 print("==========================")
 
 name = input("Enter your name: ")
